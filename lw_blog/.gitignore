@@ -1,0 +1,8 @@
+.idea
+*.pyc
+lw_blog/develop.py
+db.sqlite3
+lw_blog/blog_admin/migrations/00*
+lw_blog/login/migrations/00*
+
+
